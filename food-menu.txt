@@ -1,0 +1,5 @@
+Pizza - 250
+Coffee- 30
+cold coffee - 60
+Tea -10
+Spl Tea - 20
